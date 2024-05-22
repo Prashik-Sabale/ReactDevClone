@@ -1,0 +1,19 @@
+.Tab-div{
+    height: 50px;
+    width: 100%;
+    background-color: #23272F;
+    margin-top: 10px;
+
+
+    display: flex;
+    align-items: center;
+}
+.Tab-div:hover{
+    background-color: #283541;
+    border-radius: 10px;
+}
+.Tab-title{
+    font-size: 18px;
+    margin-left: 25px;
+    color: #149ECA;
+}

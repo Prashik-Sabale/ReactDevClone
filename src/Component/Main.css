@@ -1,0 +1,16 @@
+.Main-container{
+    width: 60vw;
+    background-color: #23272F;
+    color: white;
+    
+
+    display: flex;
+    align-items: center ;
+    flex-direction: column;
+}
+
+.content-div{
+    width: 80%;
+    padding-left: 30px;
+    color: white;
+}
